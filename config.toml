@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://blueoxtavern.com"
+baseURL = "http://www.blueoxtavern.com"
 languageCode = "en-US"
 title = "Blue Ox Tavern - We'll Be Back"
 
