@@ -1,0 +1,16 @@
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = "https://blueoxtavern.com"
+languageCode = "en-US"
+title = "Blue Ox Tavern - We'll Be Back"
+
+# Metadata
+[params]
+  author = "The Aronsohn Family"
+  description = "We'll Be Back"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/hero_bg.jpg"
+  title = "Blue Ox Tavern"
+  description = "We'll Be Back"
